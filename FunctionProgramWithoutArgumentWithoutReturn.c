@@ -3,8 +3,7 @@
 void value(); 
 
 void main() 
-{ 
-
+{
     value(); 
 } 
 
@@ -18,6 +17,5 @@ void value()
     
     c=a*b;
   
-
     printf("The product of two numbers is %d",c); 
 } 
